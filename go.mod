@@ -1,4 +1,4 @@
-module github.com/erroneousboat/slack-term
+module github.com/abdallahalsamman/slack-term
 
 go 1.18
 
